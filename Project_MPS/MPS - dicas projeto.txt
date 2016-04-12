@@ -1,0 +1,20 @@
+dicas MPS projeto
+
+Exceção em model lança para a view;
+Criar classe para cada Exception;
+While (true){
+string = "";
+
+if(!checked user)
+	aparece tela
+
+}
+Infra --> log4g
+Nullpointer
+Ioexception
+
+funções ---> salvar em arquivo e carregar do arquivo
+
+Update -- acha usuario no mapa, e então pede a senha.
+
+ 
